@@ -1,3 +1,5 @@
+Power BI Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiYTMzYzMyMmUtNWI2MS00NzA5LTlkNWUtMTAzNDdiZjUyMDM2IiwidCI6IjE2MGUxZjZhLTg4MjgtNGVkNi04MzE5LWNiNjBhMjhhNDIyZSJ9
+
 Project Title: Coffee Sales Analysis Using SQL and Power BI
 
 Overview:The project focused on analyzing coffee sales data to uncover trends and patterns, understand customer purchase behavior, and conduct time-series exploratory analysis. The goal was to generate actionable insights for sales optimization and business strategy enhancement.
