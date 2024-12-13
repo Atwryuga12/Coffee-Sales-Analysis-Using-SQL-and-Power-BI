@@ -1,47 +1,86 @@
-# Coffee-Sales-Analysis-
-This project focuses on analyzing coffee sales data to derive actionable insights, optimize sales strategies, and improve business decision-making. It employs SQL for data querying and aggregation and Power BI for creating an interactive dashboard to visualize trends, patterns, and key metrics.
+Project Title: Coffee Sales Analysis Using SQL and Power BI
 
-**Objectives**
+Overview:The project focused on analyzing coffee sales data to uncover trends and patterns, understand customer purchase behavior, and conduct time-series exploratory analysis. The goal was to generate actionable insights for sales optimization and business strategy enhancement.
 
-Provide an overview of the coffee sales performance, including revenue and order metrics.
-Identify sales trends over time (monthly and daily) to uncover high-performing periods.
-Highlight the most popular products, customer preferences, and other performance metrics.
-Create an interactive dashboard for stakeholders to explore insights dynamically.
+Key Features & Functionalities:
 
-**Components**
-Data Analysis Using SQL and Data visualization using Power BI
+Interactive Dashboard:
 
-Queries were written to calculate and summarize essential metrics, including:
-Total Revenue: Summing up sales figures.
-Total Orders: Counting the total number of transactions.
-Monthly Sales Trends: Grouping and ranking revenues by months.
-Daily Sales Trends: Analyzing revenues across days of the week.
-Average Sales per day and Average Orders per day
+Built a dynamic and interactive dashboard in Power BI to visualize key performance indicators (KPIs) and insights.
 
-An interactive dashboard (Coffee Sales Analysis.pbix) was designed to visualize the insights derived from the data. Key features include:
-Revenue and Order KPIs: At-a-glance display of total revenue and order counts.
-Time-Based Trends: Line charts for monthly and daily sales, highlighting peak and low-performance periods.
-Product Analysis: Insights into top-performing products and categories.
-Filters and Interactivity: Stakeholders can slice data by date, region, or product to gain tailored insights.
+Key metrics include:
 
-Key Insights
-Sales peak during certain months and specific days, suggesting promotional opportunities.
-Certain products or categories drive significant revenue, indicating potential areas for upselling or cross-selling.
+Total Revenue
 
-Technical Details
-Tools & Technologies:
-SQL for data querying and preparation.
-Power BI for data visualization and interactive reporting.
+Total Orders
 
-Dashboard Features:
-KPI Cards for summary statistics.
-Trend charts and bar graphs for visual storytelling.
-Slicers for user interaction and drill-down capabilities.
+Average Orders per Day
 
-Applications
-Sales strategy optimization.
-Inventory management based on product performance.
-Marketing campaign planning for high-performing periods.
+Average Sales Amount per Day
 
-Conclusion
-The Coffee Sales Analysis project is a comprehensive data-driven approach to understanding sales performance. By combining SQL's querying capabilities with Power BI's visualization power, it provides actionable insights for stakeholders to make informed business decisions.
+Additional visualizations highlight:
+
+Monthly and Daily Sales Trends
+
+Percentage of Coffee Sales by Category
+
+Percentage of Payment Types
+
+Best Sales Hours in a Day
+
+Top and Bottom Performing Coffees (by Revenue and Total Sales)
+
+Technical Details:
+
+Technologies Used:
+
+SQL: Used for data preparation, cleaning, and analysis.
+
+Power BI: Utilized for creating visualizations and dashboards.
+
+Insights Gained:
+
+Peak Sales Months: Identified May, June, and March as the months with the highest sales.
+
+Best-Selling Products:
+
+Latte, Americano with Milk, and Cappuccino accounted for 65% of total sales.
+
+Latte contributed the highest revenue, while Espresso contributed the least.
+
+Americano with Milk recorded the highest orders, while Cocoa had the fewest.
+
+Payment Preferences: 92% of payments were made using cards.
+
+Time-Based Trends:
+
+Americano and Americano with Milk sales peaked during morning office hours (10–12 AM).
+
+Cappuccino sales were highest in the evening (around 7 PM).
+
+Cross-Selling Opportunities: Highlighted high-revenue products to inform upselling and cross-selling strategies.
+
+Applications:
+
+While this was a personal project, it showcases the potential for real-world application. If conducted with real-world data, the insights could:
+
+Inform marketing campaigns to target high-revenue products and peak sales periods.
+
+Enhance e-commerce strategies by optimizing product placement and promotions.
+
+Improve customer relationship management through personalized recommendations.
+
+Skills Utilized:
+
+Data Preparation and Cleaning (SQL)
+
+Data Analysis and Insights Generation
+
+Data Visualization and Dashboard Development (Power BI)
+
+Time-Series Analysis
+
+Communication of Findings
+
+Outcome (Result):
+The project successfully demonstrated the ability to analyze sales data comprehensively, extract meaningful insights, and present them in a visually engaging manner. The dashboard and insights are directly applicable to business scenarios, showcasing the ability to drive data-informed decision-making.
