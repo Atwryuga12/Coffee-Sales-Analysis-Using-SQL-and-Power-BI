@@ -53,7 +53,8 @@ Data Analysis and Insights Generation
 Data Visualization and Dashboard Development (Power BI)
 Time-Series Analysis
 
-Communication of Findings
-
-Outcome (Result):
+## Outcome (Result):
 The project successfully demonstrated the ability to analyze sales data comprehensively, extract meaningful insights, and present them in a visually engaging manner. The dashboard and insights are directly applicable to business scenarios, showcasing the ability to drive data-informed decision-making.
+
+![Screenshot 2024-12-02 124934](https://github.com/user-attachments/assets/4e0bb4b5-f416-4e46-baa4-2742e63fdddf)
+
