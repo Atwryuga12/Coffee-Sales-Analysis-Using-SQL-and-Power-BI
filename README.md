@@ -56,6 +56,7 @@ Time-Series Analysis
 ## Outcome (Result):
 The project successfully demonstrated the ability to analyze sales data comprehensively, extract meaningful insights, and present them in a visually engaging manner. The dashboard and insights are directly applicable to business scenarios, showcasing the ability to drive data-informed decision-making.
 
+## Dashboards Screenshots
 ![Screenshot 2024-12-02 124934](https://github.com/user-attachments/assets/4e0bb4b5-f416-4e46-baa4-2742e63fdddf)
 ![Screenshot 2024-12-21 222829](https://github.com/user-attachments/assets/1441e5cb-ffd7-4e84-b378-4fd9a3e64230)
 
