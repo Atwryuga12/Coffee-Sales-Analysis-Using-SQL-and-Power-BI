@@ -1,4 +1,4 @@
-Power BI Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiYTMzYzMyMmUtNWI2MS00NzA5LTlkNWUtMTAzNDdiZjUyMDM2IiwidCI6IjE2MGUxZjZhLTg4MjgtNGVkNi04MzE5LWNiNjBhMjhhNDIyZSJ9
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTMzYzMyMmUtNWI2MS00NzA5LTlkNWUtMTAzNDdiZjUyMDM2IiwidCI6IjE2MGUxZjZhLTg4MjgtNGVkNi04MzE5LWNiNjBhMjhhNDIyZSJ9" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #24292f; color: #ffffff; border-radius: 5px;"># Dashboard Link</a>
 
 # Coffee Sales Analysis Using SQL and Power BI
 
